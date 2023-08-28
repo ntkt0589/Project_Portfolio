@@ -1,2 +1,3 @@
 # Project_Portfolio
-Project portfolio for applying the job as Entry Data Analyst
+Project Portfolio for applying the Job as Entry Data Analyst.
+Projects were conducted in Python, in Power BI und in Excel.
