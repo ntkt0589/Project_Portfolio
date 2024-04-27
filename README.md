@@ -1,2 +1,2 @@
 # Project_Portfolio
-Transforming and creating Data in Python for Analysis Projects.
+Transforming and creating data in Python for Analysis Projects.
